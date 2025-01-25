@@ -21,7 +21,7 @@ This project is a Python-based tool that detects vehicle tracks from aerial imag
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/vehicle-track-detection.git
+   git clone https://github.com/guybensi/Vehicle-Tracks-Detection.git
    ```
 2. Navigate to the project directory:
    ```bash
